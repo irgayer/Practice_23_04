@@ -1,0 +1,15 @@
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\Database1.mdf
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\Database1_log.ldf
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.DataAccess.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.DataAccess.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\Dapper.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.Models.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\DL.Models.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\bin\Debug\Dapper.xml
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\obj\Debug\DL.DataAccess.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\obj\Debug\DL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\obj\Debug\DL.DataAccess.csproj.CopyComplete
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\obj\Debug\DL.DataAccess.dll
+C:\Users\ИргалиевЕ.CORP\source\repos\DL\DL.DataAccess\obj\Debug\DL.DataAccess.pdb
