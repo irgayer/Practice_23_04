@@ -34,12 +34,10 @@ namespace DL.DataAccess
 
         public void Delete(Guid id)
         {
-            throw new NotImplementedException();
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
         }
 
         public ICollection<Mail> GetAll()
@@ -50,7 +48,6 @@ namespace DL.DataAccess
 
         public void Update(Mail item)
         {
-            throw new NotImplementedException();
         }
     }
 }

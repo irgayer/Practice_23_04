@@ -42,7 +42,7 @@ namespace DL.Console
                 System.Console.WriteLine("Введите адресс получателя :");
                 receiverMail = System.Console.ReadLine();
 
-                if(receivers.Where(r => r.Id.ToString() == receiverMail) != null)
+                if(receivers.Where(r => r.Address == receiverMail) != null)
                 {
                     using(var repository = new MailRepository())
                     {
@@ -50,7 +50,7 @@ namespace DL.Console
                         {
                             Theme = mailTheme,
                             Text = mailText,
-                            ReceiverId = Guid.Parse(receiverMail)
+                            ReceiverId = receivers.Where(r => r.Address == receiverMail).FirstOrDefault().Id
                         });
                         System.Console.WriteLine("Письмо отправлено!");
                     }
